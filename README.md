@@ -16,7 +16,7 @@ Tablet.
 I am looking for ideas, suggestions' or improvements to the code I created to help others who are trying to make this journey.
 
 Minimum requirement Android Studio 4.1, 
-Run and tested on iOS BigSur
+Run and tested on iOS BigSur and the one just before that release.
 
 Please see the recomendations in the "documentation" directory to you get started with an iOS system if you do not have an iOS development
 environment.
