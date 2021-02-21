@@ -1,0 +1,6 @@
+com/example/kotlindate/andKotlinDateApp/BuildConfig.java
+ com.example.kotlindate.andKotlinDateApp.BuildConfig
+com/example/kotlindate/andKotlinDateApp/databinding/ItemDateBinding.java
+ com.example.kotlindate.andKotlinDateApp.databinding.ItemDateBinding
+com/example/kotlindate/andKotlinDateApp/databinding/ActivityMainBinding.java
+ com.example.kotlindate.andKotlinDateApp.databinding.ActivityMainBinding

@@ -1,0 +1,2 @@
+com/example/kotlindate/shared/BuildConfig.java
+ com.example.kotlindate.shared.BuildConfig

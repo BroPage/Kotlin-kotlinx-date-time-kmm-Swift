@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tv_short_date">Short Date</string>
+    <string name="tv_short_time">Short Time</string>
+    <string name="tv_date_time_stamp">Date Time Stamp</string>
+    <string name="tv_start_of_day">Start of Day</string>
+    <string name="tv_short_date_conversion">Output from short date conversion</string>
+    <string name="tv_long_date_from_short">Long date from short</string>
+    <string name="tv_next_day">Next Day</string>
+    <string name="tv_previous_day">Previous day</string>
+    <string name="tv_full_durration_array">Full durration array</string>
+    <string name="tv_days_different">Days Different</string>
+    <string name="tv_formated_date">Formated Date</string>
+    <string name="tv_formated_time">Formated Time</string>
+    <string name="tv_zoned_date_time">Zoned date time</string>
+    <string name="tv_future_use">Future use</string>
+    <string name="tv_templete_default">Templete default</string>
+    <string name="mission_name_field">dateName</string>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\pagel\\AndroidStudioProjects\\examples\\KotlinDateTime\\andKotlinDateApp\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pagel\\AndroidStudioProjects\\examples\\KotlinDateTime\\andKotlinDateApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pagel\\AndroidStudioProjects\\examples\\KotlinDateTime\\andKotlinDateApp\\build\\intermediates\\res\\merged\\debug\\layout_item_date.xml.flat",
+        "source": "C:\\Users\\pagel\\AndroidStudioProjects\\examples\\KotlinDateTime\\andKotlinDateApp\\src\\main\\res\\layout\\item_date.xml"
+    }
+]

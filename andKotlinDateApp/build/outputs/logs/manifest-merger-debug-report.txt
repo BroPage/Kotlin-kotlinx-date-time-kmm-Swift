@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.databinding:viewbinding:4.1.2] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5f30a4c89ef8314ded5eb18d7b185f8f\viewbinding-4.1.2\AndroidManifest.xml:17:1-22:12
+MERGED from [:shared] C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\710f3df30a529c6d4ddc7228d50e1e2e\core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\25945812d96a3747f1fe0317b0c0a827\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\936e89b72b949bffbf7f2b2e7378e34e\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\d0dbf1f2fba45ebb34a5351fe63455c0\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\02b628d852e7e2cb926f7f5e0fc1e489\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\463e2d586454a9131a7d8f861c027514\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\ee3da47641174fdc1070d3dd79910afd\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\b390e50bea68cf9044b0689399584619\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\8922f5e080c7bb7fa20c43b1abf3d51c\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\84b7573d9fa17775cf4811dadfed6cd8\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5549b8829220ed32c328013ae911ee0b\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\86a907907a720b9e65d3da6889edeab9\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\67ce691a7c2af4db165c0f133e52cda8\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\69c5a96f95daf05000c4f97a37e1338d\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\738ee0871de8e3d6ebbbc66f864ea70c\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\e2b8bc1648c95598aadce445aec8c27d\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\715a26184d741d59db3924ad6b281a91\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\56f1450cf32ebc3c4ff335207e29e374\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\f96a38f4b233d27731009f084c08e022\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\115ff42e8c2b91a3b8516dce761ea09e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\a8bc9071c96048310fa7ea1c18d52f8a\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\dbe27e89c45c017818dede13fa22ffb4\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5df9b9defb18dec76ace329cf5d58b4a\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\efd1afce063d075861d7e5502e856970\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\686c35bfdbedc661a9684ef2dcbfbd5d\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\de53faeede8d4e1e1557a59d2dae4141\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\f8c6e27fb8716ae889db16ad200a7f4e\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\8fd53678d4a3ecd3307ae210b625183d\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\b5cb89056dc75eae3a24c9cec8da2105\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\07489f49368f6f33c31fba18ecde853d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5449573fd088fca5f2d72e2710ded58c\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\4384c1d078caea0c0447404b33eca75e\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\fe380fad719f79afcb2c78a9451afe86\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\e0dbf993b480a07516bc5564327e54e3\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\6b99deee2d45919700fb00223570bbc6\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:2:1-14:12
+	package
+		ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:2:70-119
+		INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:2:1-14:12
+		INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:2:1-14:12
+		INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:3:5-13:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\25945812d96a3747f1fe0317b0c0a827\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\25945812d96a3747f1fe0317b0c0a827\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\936e89b72b949bffbf7f2b2e7378e34e\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\936e89b72b949bffbf7f2b2e7378e34e\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5df9b9defb18dec76ace329cf5d58b4a\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5df9b9defb18dec76ace329cf5d58b4a\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\686c35bfdbedc661a9684ef2dcbfbd5d\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\686c35bfdbedc661a9684ef2dcbfbd5d\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5df9b9defb18dec76ace329cf5d58b4a\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:5:13-39
+	android:allowBackup
+		ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:4:13-40
+	android:theme
+		ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:6:13-44
+activity#com.example.kotlindate.andKotlinDateApp.MainActivity
+ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:7:9-12:20
+	android:name
+		ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:7:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:8:13-11:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:9:17-68
+	android:name
+		ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:9:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:10:17-76
+	android:name
+		ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml:10:27-74
+uses-sdk
+INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.1.2] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5f30a4c89ef8314ded5eb18d7b185f8f\viewbinding-4.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.2] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5f30a4c89ef8314ded5eb18d7b185f8f\viewbinding-4.1.2\AndroidManifest.xml:20:5-44
+MERGED from [:shared] C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\710f3df30a529c6d4ddc7228d50e1e2e\core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\710f3df30a529c6d4ddc7228d50e1e2e\core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\25945812d96a3747f1fe0317b0c0a827\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\25945812d96a3747f1fe0317b0c0a827\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\936e89b72b949bffbf7f2b2e7378e34e\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\936e89b72b949bffbf7f2b2e7378e34e\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\d0dbf1f2fba45ebb34a5351fe63455c0\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\d0dbf1f2fba45ebb34a5351fe63455c0\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\02b628d852e7e2cb926f7f5e0fc1e489\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\02b628d852e7e2cb926f7f5e0fc1e489\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\463e2d586454a9131a7d8f861c027514\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\463e2d586454a9131a7d8f861c027514\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\ee3da47641174fdc1070d3dd79910afd\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\ee3da47641174fdc1070d3dd79910afd\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\b390e50bea68cf9044b0689399584619\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\b390e50bea68cf9044b0689399584619\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\8922f5e080c7bb7fa20c43b1abf3d51c\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\8922f5e080c7bb7fa20c43b1abf3d51c\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\84b7573d9fa17775cf4811dadfed6cd8\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\84b7573d9fa17775cf4811dadfed6cd8\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5549b8829220ed32c328013ae911ee0b\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5549b8829220ed32c328013ae911ee0b\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\86a907907a720b9e65d3da6889edeab9\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\86a907907a720b9e65d3da6889edeab9\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\67ce691a7c2af4db165c0f133e52cda8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\67ce691a7c2af4db165c0f133e52cda8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\69c5a96f95daf05000c4f97a37e1338d\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\69c5a96f95daf05000c4f97a37e1338d\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\738ee0871de8e3d6ebbbc66f864ea70c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\738ee0871de8e3d6ebbbc66f864ea70c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\e2b8bc1648c95598aadce445aec8c27d\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\e2b8bc1648c95598aadce445aec8c27d\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\715a26184d741d59db3924ad6b281a91\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\715a26184d741d59db3924ad6b281a91\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\56f1450cf32ebc3c4ff335207e29e374\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\56f1450cf32ebc3c4ff335207e29e374\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\f96a38f4b233d27731009f084c08e022\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\f96a38f4b233d27731009f084c08e022\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\115ff42e8c2b91a3b8516dce761ea09e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\115ff42e8c2b91a3b8516dce761ea09e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\a8bc9071c96048310fa7ea1c18d52f8a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\a8bc9071c96048310fa7ea1c18d52f8a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\dbe27e89c45c017818dede13fa22ffb4\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\dbe27e89c45c017818dede13fa22ffb4\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5df9b9defb18dec76ace329cf5d58b4a\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5df9b9defb18dec76ace329cf5d58b4a\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\efd1afce063d075861d7e5502e856970\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\efd1afce063d075861d7e5502e856970\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\686c35bfdbedc661a9684ef2dcbfbd5d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\686c35bfdbedc661a9684ef2dcbfbd5d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\de53faeede8d4e1e1557a59d2dae4141\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\de53faeede8d4e1e1557a59d2dae4141\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\f8c6e27fb8716ae889db16ad200a7f4e\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\f8c6e27fb8716ae889db16ad200a7f4e\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\8fd53678d4a3ecd3307ae210b625183d\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\8fd53678d4a3ecd3307ae210b625183d\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\b5cb89056dc75eae3a24c9cec8da2105\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\b5cb89056dc75eae3a24c9cec8da2105\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\07489f49368f6f33c31fba18ecde853d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\07489f49368f6f33c31fba18ecde853d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5449573fd088fca5f2d72e2710ded58c\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\5449573fd088fca5f2d72e2710ded58c\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\4384c1d078caea0c0447404b33eca75e\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\4384c1d078caea0c0447404b33eca75e\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\fe380fad719f79afcb2c78a9451afe86\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\fe380fad719f79afcb2c78a9451afe86\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\e0dbf993b480a07516bc5564327e54e3\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\e0dbf993b480a07516bc5564327e54e3\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\6b99deee2d45919700fb00223570bbc6\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\pagel\.gradle\caches\transforms-2\files-2.1\6b99deee2d45919700fb00223570bbc6\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pagel\AndroidStudioProjects\examples\KotlinDateTime\andKotlinDateApp\src\main\AndroidManifest.xml
